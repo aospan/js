@@ -1,0 +1,30 @@
+{
+  "name": "jstestproject",
+  "version": "0.0.1",
+  "description": "Test project",
+  "files": [
+    "*.md",
+    "docs",
+    "lib",
+    "npm-scripts",
+    "umd"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "authors": [
+    "Abylay Ospan"
+  ],
+  "license": "GPL-2.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest-cli": "^0.8.0",
+    "react": "^0.14.0",
+    "react-addons-css-transition-group": "^0.14.0",
+    "react-addons-test-utils": "0.14.0",
+    "react-dom": "^0.14.0",
+    "react-static-container": "^1.0.0",
+    "react-tools": "^0.13.3"
+  }
+}
